@@ -15,4 +15,3 @@ You can view a live demo of this project [here](https://seliinatmaca.github.io/n
 
 ![](screen.gif)
 
-# noteMap
