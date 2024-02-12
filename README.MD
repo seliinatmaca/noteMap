@@ -7,11 +7,11 @@ This application, developed using the Leaflet map library along with HTML, CSS a
 It was coded using
 Html, Css, JavaScript and Leaflet map library technologies.
 
-<h2> Screenshot </h2>
-
 <h2> Demo </h2>
 
 You can view a live demo of this project [here](https://seliinatmaca.github.io/noteMap/).
+
+<h2> Screenshot </h2>
 
 ![](screen.gif)
 
